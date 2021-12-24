@@ -26,7 +26,7 @@ let g:lightline = {
       \}
 
 "  nerdtree
-let NERDTreeShowHidden=1
+let NERDTreeShowHidden=0
 let NERDTreeQuitOnOpen=1
 let NERDTreeAutoDeleteBuffer=1
 let NERDTreeMinimalUI=1
